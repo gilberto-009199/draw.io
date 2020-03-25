@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-25T07:20:30.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="7fs506O1AJi1ErRAuLp5" version="12.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-25T07:42:05.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="swRenhqYnNEjeJqpXn0r" version="12.9.2" type="github">
   <diagram id="1mysd53Gnd4nTqjyurCx" name="Page-1">
-    <mxGraphModel dx="1718" dy="1592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2090" dy="1803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,7 +84,7 @@
           <mxGeometry x="520" y="180" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wgPbf9IUGAWArEAMorVR-2" value="1:1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="770" y="180" width="30" height="20" as="geometry" />
+          <mxGeometry x="730" y="184" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wgPbf9IUGAWArEAMorVR-6" value="1:N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="120" width="30" height="20" as="geometry" />
@@ -338,6 +338,36 @@
         </mxCell>
         <mxCell id="DxdNHosKMYR6QQF7nd6B-113" style="edgeStyle=none;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="1" source="DxdNHosKMYR6QQF7nd6B-102" target="DxdNHosKMYR6QQF7nd6B-102">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DxdNHosKMYR6QQF7nd6B-126" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="230" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DxdNHosKMYR6QQF7nd6B-130" value="" style="endArrow=none;html=1;strokeColor=#000000;entryX=-0.008;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kd50eOP3ocVIhUrG3reN-4" target="DxdNHosKMYR6QQF7nd6B-126">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="280" as="sourcePoint" />
+            <mxPoint x="830" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DxdNHosKMYR6QQF7nd6B-131" value="TITULAÇÃO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="235" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DxdNHosKMYR6QQF7nd6B-132" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;background-color: white ; font-family: &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 9pt&quot;&gt;E da minha opinião que&lt;/span&gt;&lt;span style=&quot;font-size: 9pt ; background-color: white ; font-family: &amp;#34;helvetica&amp;#34; , sans-serif&quot;&gt;&amp;nbsp;um professor pode ser&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 9pt ; line-height: 150% ; font-family: &amp;#34;helvetica&amp;#34; , sans-serif&quot;&gt;&lt;span style=&quot;background: white&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9pt ; line-height: 150%&quot;&gt;&lt;span&gt;professor, coordenador,&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 9pt ; line-height: 150%&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9pt&quot;&gt;Matemático e Físico , logo é um&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9pt&quot;&gt;dado multivalorado&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; align=&quot;left&quot; style=&quot;text-align: left&quot;&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;rotation=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="80" width="323" height="156.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DxdNHosKMYR6QQF7nd6B-134" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="330" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DxdNHosKMYR6QQF7nd6B-135" value="área" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="881" y="335" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DxdNHosKMYR6QQF7nd6B-137" value="" style="endArrow=none;html=1;strokeColor=#000000;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DxdNHosKMYR6QQF7nd6B-134" target="kd50eOP3ocVIhUrG3reN-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="290" as="sourcePoint" />
+            <mxPoint x="1080" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DxdNHosKMYR6QQF7nd6B-140" value="Para min um professor pode atuar em 1 área&amp;nbsp;&lt;br&gt;ou mais." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
+          <mxGeometry x="895" y="240" width="185" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
