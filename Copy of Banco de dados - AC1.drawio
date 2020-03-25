@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-25T09:48:10.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="KVWwI9HmMFZmWwH-xFJU" version="12.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-25T09:50:33.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="_0V8g5xu9WWupz33GNwg" version="12.9.2" type="github">
   <diagram id="1mysd53Gnd4nTqjyurCx" name="Page-1">
-    <mxGraphModel dx="2090" dy="1709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1871" dy="1601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -279,7 +279,7 @@
         <mxCell id="DxdNHosKMYR6QQF7nd6B-87" value="Formação" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="-10" width="107" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="DxdNHosKMYR6QQF7nd6B-92" value="&lt;div&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Dado que estabelece o tipo&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;de formação com graduação,&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;mestrado e doutorado&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;rotation=0;align=center;" vertex="1" parent="1">
+        <mxCell id="DxdNHosKMYR6QQF7nd6B-92" value="&lt;div&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Dado que estabelece o tipo&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;de formação como&amp;nbsp; graduação,&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;mestrado e doutorado&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;rotation=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="110" y="-100" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DxdNHosKMYR6QQF7nd6B-96" value="" style="endArrow=none;html=1;strokeColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kd50eOP3ocVIhUrG3reN-3" target="DxdNHosKMYR6QQF7nd6B-87">
