@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-04T00:25:32.811Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="0g70VLU_vuVi81pL-eIz" version="12.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-04T00:25:52.909Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="ORYOYTy5kidcp4l80tNG" version="12.9.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1021" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,8 +87,8 @@
         <mxCell id="8IQMpSymh2OKNN8EFJxy-46" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="566" y="630" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8IQMpSymh2OKNN8EFJxy-47" value="PAR &amp;amp; IMPAR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="566" y="50" width="120" height="30" as="geometry" />
+        <mxCell id="8IQMpSymh2OKNN8EFJxy-47" value="Comerciante de Alcogel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="526" y="50" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8IQMpSymh2OKNN8EFJxy-52" value="Verdadeiro" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="230" width="100" height="30" as="geometry" />
